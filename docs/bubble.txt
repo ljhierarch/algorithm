@@ -1,0 +1,6 @@
+bubble algorithm
+
+冒泡排序算法
+
+输入要求：int list dump后端json字符串
+输出：排序后的数字字符串

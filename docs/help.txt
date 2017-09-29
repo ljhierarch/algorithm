@@ -1,0 +1,7 @@
+help command
+
+帮助命令，help command_name/algorithm_name，展示出对应命令/算法的描述	
+
+其他命令：
+quit: 退出
+execute: 执行算法
